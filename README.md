@@ -7,6 +7,7 @@ Dependencies
 
 Usage
 --------------------------------------------------
+[jQuery](https://jquery.com/)
 
 
 ```html
