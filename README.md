@@ -1,17 +1,28 @@
 jQuery - html to eml convert
 ==================================================
 
+Dependencies
+--------------------------------------------------
+- [jQuery](https://jquery.com/)
+
 Usage
 --------------------------------------------------
 
+
 ```html
-<script src="base64.js"></script>
+
 ```
 
 ```javascript
-var Base64 = require('js-base64').Base64;
+
 ```
+API
+--------------------------------------------------
+
+License
+--------------------------------------------------
+Released under the MIT License.
 
 
-Change Log
+History
 --------------------------------------------------
