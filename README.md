@@ -3,13 +3,14 @@ jQuery - html to eml convert
 
 Usage
 --------------------------------------------------
+[jQuery](https://jquery.com/)
 
 ```html
-<script src="base64.js"></script>
+
 ```
 
 ```javascript
-var Base64 = require('js-base64').Base64;
+
 ```
 
 
